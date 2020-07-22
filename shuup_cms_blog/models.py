@@ -14,7 +14,9 @@ from parler.models import TranslatableModel, TranslatedFields
 
 
 class BlogArticle(TranslatableModel):
-    page = models.OneToOneField("shuup_simple_cms.Page", verbose_name=_("page"), related_name="blog_article")
+    page = models.OneToOneField(
+        "shuup_simple_cms.Page", verbose_name=_("page"), related_name="blog_article", on_delete=models.CASCADE
+    )
     is_blog_article = models.BooleanField(
         default=False,
         verbose_name=_("This is a blog article"),

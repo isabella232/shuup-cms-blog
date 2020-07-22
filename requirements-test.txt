@@ -1,9 +1,9 @@
-shuup
-pytest>=3.6
+shuup>2,<3
+pytest==5.4.1
 pytest-cov
-pytest-django>=3.3.2
-pytest-sugar
-flake8
+pytest-django==3.8.0
+pytest-sugar==0.9.4
 beautifulsoup4==4.5.3
-isort
+flake8>3,<4
+isort>4.3,<5
 -e .
