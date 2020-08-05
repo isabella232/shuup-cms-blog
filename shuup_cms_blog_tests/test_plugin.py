@@ -8,7 +8,7 @@
 from datetime import timedelta
 
 import pytest
-from django.core.urlresolvers import reverse
+from django.urls import reverse
 from django.utils.timezone import now
 
 from shuup.simple_cms.layout import PageLayout
