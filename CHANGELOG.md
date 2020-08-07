@@ -12,6 +12,10 @@ Enter here all the changes made to the development version
 
 Improve descriptions, help texts, error messages, etc
 
+## [1.0.2] - 2020-08-07
+
+- Add missing migration
+
 ## [1.0.1] - 2020-08-05
 
 ## [1.0.0] - 2020-08-05
