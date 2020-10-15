@@ -1,0 +1,69 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Panu Tulimäki <panu@shuup.com>, 2020
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-12 23:43+0000\n"
+"PO-Revision-Date: 2019-03-12 23:44+0000\n"
+"Last-Translator: Panu Tulimäki <panu@shuup.com>, 2020\n"
+"Language-Team: French (Canada) (https://www.transifex.com/shuup/teams/55306/fr_CA/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_CA\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "page"
+msgstr "page"
+
+msgid "This is a blog article"
+msgstr "Ceci est un article de blog"
+
+msgid ""
+"Indicates whether this is a blog article and it should appear on articles "
+"list."
+msgstr ""
+"Indique s&#39;il s&#39;agit d&#39;un article de blog et qu&#39;il doit "
+"apparaître dans la liste des articles."
+
+msgid "Image"
+msgstr "Image"
+
+msgid "The image for the article."
+msgstr "L&#39;image de l&#39;article."
+
+msgid "Small description"
+msgstr "Petite description"
+
+msgid ""
+"Define a small description to be shown in article list. This is the text "
+"that should capture users attention."
+msgstr ""
+"Définissez une petite description à afficher dans la liste d&#39;articles. "
+"C&#39;est le texte qui devrait capter l&#39;attention des utilisateurs."
+
+msgid "blog article"
+msgstr "article de blog"
+
+msgid "blog articles"
+msgstr "articles de blog"
+
+msgid "Blog Articles List"
+msgstr "Liste des articles du blog"
+
+msgid "Blog Article Page"
+msgstr "Page d&#39;article de blog"
+
+msgid "Blog Article"
+msgstr "Article de blog"
+
+msgid "Home"
+msgstr "Accueil"
